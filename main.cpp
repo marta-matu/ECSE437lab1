@@ -1,4 +1,5 @@
 // Marta Matuszewski 260845685
+// marta.matuszewski@mail.mcgill.ca
 #include<iostream>
 using namespace std;
 int main ()
