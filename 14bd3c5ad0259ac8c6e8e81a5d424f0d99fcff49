@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "82ed2fd0_99e5ac16",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1020535
+      },
+      "writtenOn": "2022-09-28T17:09:01Z",
+      "side": 1,
+      "message": "very good.",
+      "revId": "14bd3c5ad0259ac8c6e8e81a5d424f0d99fcff49",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "ecacb454_1a1bd461",
+        "filename": "README.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 1020535
+      },
+      "writtenOn": "2022-09-28T17:09:01Z",
+      "side": 1,
+      "message": "Add a period at the end of the line !",
+      "revId": "14bd3c5ad0259ac8c6e8e81a5d424f0d99fcff49",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    }
+  ]
+}
